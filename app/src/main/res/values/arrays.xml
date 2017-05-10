@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">opciones</string-array>
+    <string-array name="opcionMarca">opcionMarca</string-array>
+    <string-array name="opcionModelo">opcionModelo</string-array>
+    <string-array name="opcionColor">opcionColor</string-array>
+    <string-array name="Informes_array">informe</string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workshop cars</string>
+    <string name="marca">brand</string>
+    <string name="modelo">Model</string>
+    <string name="color">Color</string>
+    <string name="precio">Price</string>
+    <string name="guardar">Save</string>
+    <string name="borrar">Clear</string>
+    <string name="informecarros">Report cars</string>
+    <string name="registropormarca">Registre by brand</string>
+    <string name="CarrosRegistrados">Registered cars</string>
+    <string name="MarcaNissan">Nissan brand</string>
+    <string name="MarcaPorche">Porsche brand</string>
+    <string name="Marcaferrari">ferrari brand</string>
+    <string name="RegistrodeCarros">Car Registration</string>
+    <string name="Registropormarca">Registration by brand</string>
+    <string name="error_1">Type plaque</string>
+    <string name="error_2">Type the price</string>
+    <string name="mensaje">successful registration</string>
+    <string name="placa">license plate</string>
+    <string name="dorado">golden</string>
+    <string name="rojo2">red2</string>
+    <string name="rojo">red</string>
+    <string name="nissan">nissan</string>
+    <string name="porche">porche</string>
+    <string name="ferrari">ferrari</string>
+    <string name="listarCarros">listarcarros</string>
+    <string name="reportes">reportes</string>
+</resources>
